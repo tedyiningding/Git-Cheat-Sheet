@@ -1,5 +1,9 @@
 # Git-Cheat-sheet
 
+## Update git version for Windows
+```
+git update-git-for-windows
+```
 
 ## Discard unstaged changes
 - Discard unstaged changes in all tracked files in the current directory:
